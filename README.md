@@ -25,5 +25,5 @@ Los pull request son bienvendios mientras sean para mejorar el juego.
 En todo los casos, asegurarse de que cualquier modificación a requerir sea apropiada.
 
 ## Desarrolladores
-El videojuego fue desarrollado por Reinaldo Toledo y Francesca Bonilla, estudiantse de Ingeniería de Sistemas y Computación de la Universidad Nacional de Colombia para el curso de Programación Orientada a Objetos en el mes de noviembre de 2020.
+El videojuego fue desarrollado por Reinaldo Toledo y Francesca Bonilla, estudiantes de Ingeniería de Sistemas y Computación de la Universidad Nacional de Colombia para el curso de Programación Orientada a Objetos en el mes de noviembre de 2020.
 
